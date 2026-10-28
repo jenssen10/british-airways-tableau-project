@@ -8,10 +8,6 @@ An interactive Tableau dashboard exploring British Airways customer reviews: how
 
 [(https://public.tableau.com/app/profile/jenssen.honore/viz/BritishAirwaysReviews_17924199462390/Dashboard2)]
 
-![Dashboard preview](dashboard.png?v=1)
-
-
-
 
 
 
